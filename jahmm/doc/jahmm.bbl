@@ -1,0 +1,116 @@
+\begin{thebibliography}{10}
+
+\bibitem{baum1966}
+Leonard~E. Baum and Ted Petrie.
+\newblock Statistical inference for probabilistic functions of finite state
+  markov chains.
+\newblock {\em The Annals of Mathematical Statistics}, 37(6):1554--1563, 12
+  1966.
+
+\bibitem{Dempster77maximumlikelihood}
+A.~P. Dempster, N.~M. Laird, and D.~B. Rubin.
+\newblock Maximum likelihood from incomplete data via the em algorithm.
+\newblock {\em JOURNAL OF THE ROYAL STATISTICAL SOCIETY, SERIES B},
+  39(1):1--38, 1977.
+
+\bibitem{pmid18599518}
+Anthony~P Fejes, Gordon Robertson, Mikhail Bilenky, Richard Varhol, Matthew
+  Bainbridge, and Steven J~M Jones.
+\newblock {FindPeaks 3.1: a tool for identifying areas of enrichment from
+  massively parallel short-read sequencing technology.}
+\newblock {\em {Bioinformatics}}, 24(15):1729--30, August 2008.
+
+\bibitem{pmid12024216}
+Charlotte Hubbert, Amaris Guardiola, Rong Shao, Yoshiharu Kawaguchi, Akihiro
+  Ito, Andrew Nixon, Minoru Yoshida, Xiao-Fan Wang, and Tso-Pang Yao.
+\newblock {HDAC6 is a microtubule-associated deacetylase.}
+\newblock {\em {Nature}}, 417(6887):455--8, May 2002.
+
+\bibitem{pmid18978777}
+Hongkai Ji, Hui Jiang, Wenxiu Ma, David~S Johnson, Richard~M Myers, and Wing~H
+  Wong.
+\newblock {An integrated software system for analyzing ChIP-chip and ChIP-seq
+  data.}
+\newblock {\em {Nat. Biotechnol.}}, 26(11):1293--300, November 2008.
+
+\bibitem{pmid17540862}
+David~S Johnson, Ali Mortazavi, Richard~M Myers, and Barbara Wold.
+\newblock {Genome-wide mapping of in vivo protein-DNA interactions.}
+\newblock {\em {Science}}, 316(5830):1497--502, June 2007.
+
+\bibitem{pmid18684996}
+Raja Jothi, Suresh Cuddapah, Artem Barski, Kairong Cui, and Keji Zhao.
+\newblock {Genome-wide identification of in vivo protein-DNA binding sites from
+  ChIP-Seq data.}
+\newblock {\em {Nucleic Acids Res.}}, 36(16):5221--31, September 2008.
+
+\bibitem{pmid17813860}
+S~Kirkpatrick, C~D Gelatt, and M~P Vecchi.
+\newblock {Optimization by simulated annealing.}
+\newblock {\em {Science}}, 220(4598):671--80, May 1983.
+
+\bibitem{pmid22955991}
+Stephen~G Landt, Georgi~K Marinov, Anshul Kundaje, Pouya Kheradpour, Florencia
+  Pauli, Serafim Batzoglou, Bradley~E Bernstein, Peter Bickel, James~B Brown,
+  Philip Cayting, Yiwen Chen, Gilberto DeSalvo, Charles Epstein, Katherine~I
+  Fisher-Aylor, Ghia Euskirchen, Mark Gerstein, Jason Gertz, Alexander~J
+  Hartemink, Michael~M Hoffman, Vishwanath~R Iyer, Youngsook~L Jung, Subhradip
+  Karmakar, Manolis Kellis, Peter~V Kharchenko, Qunhua Li, Tao Liu, X~Shirley
+  Liu, Lijia Ma, Aleksandar Milosavljevic, Richard~M Myers, Peter~J Park,
+  Michael~J Pazin, Marc~D Perry, Debasish Raha, Timothy~E Reddy, Joel Rozowsky,
+  Noam Shoresh, Arend Sidow, Matthew Slattery, John~A Stamatoyannopoulos,
+  Michael~Y Tolstorukov, Kevin~P White, Simon Xi, Peggy~J Farnham, Jason~D
+  Lieb, Barbara~J Wold, and Michael Snyder.
+\newblock {ChIP-seq guidelines and practices of the ENCODE and modENCODE
+  consortia.}
+\newblock {\em {Genome Res.}}, 22(9):1813--31, September 2012.
+
+\bibitem{li2011}
+Qunhua Li, James~B. Brown, Haiyan Huang, and Peter~J. Bickel.
+\newblock Measuring reproducibility of high-throughput experiments.
+\newblock {\em The Annals of Applied Statistics}, 5(3):1752--1779, 09 2011.
+
+\bibitem{pmid23103880}
+Santiago Marco-Sola, Michael Sammeth, Roderic Guigó, and Paolo Ribeca.
+\newblock {The GEM mapper: fast, accurate and versatile alignment by
+  filtration.}
+\newblock {\em {Nat. Methods}}, 9(12):1185--8, December 2012.
+
+\bibitem{pmid15950866}
+Mark Ptashne.
+\newblock {Regulation of transcription: from lambda to eukaryotes.}
+\newblock {\em {Trends Biochem. Sci.}}, 30(6):275--9, June 2005.
+
+\bibitem{pmid20598134}
+Zhaohui~S Qin, Jianjun Yu, Jincheng Shen, Christopher~A Maher, Ming Hu, Shanker
+  Kalyana-Sundaram, Jindan Yu, and Arul~M Chinnaiyan.
+\newblock {HPeak: an HMM-based algorithm for defining read-enriched regions in
+  ChIP-Seq data.}
+\newblock {\em {BMC Bioinformatics}}, 11:369, 2010.
+
+\bibitem{pmid2454748}
+M~J Solomon, P~L Larsen, and A~Varshavsky.
+\newblock {Mapping protein-DNA interactions in vivo with formaldehyde: evidence
+  that histone H4 is retained on a highly transcribed gene.}
+\newblock {\em {Cell}}, 53(6):937--47, June 1988.
+
+\bibitem{pmid19772557}
+Christiana Spyrou, Rory Stark, Andy~G Lynch, and Simon Tavaré.
+\newblock {BayesPeak: Bayesian analysis of ChIP-seq data.}
+\newblock {\em {BMC Bioinformatics}}, 10:299, 2009.
+
+\bibitem{1054010}
+A.J. Viterbi.
+\newblock Error bounds for convolutional codes and an asymptotically optimum
+  decoding algorithm.
+\newblock {\em Information Theory, IEEE Transactions on}, 13(2):260--269, April
+  1967.
+
+\bibitem{pmid18798982}
+Yong Zhang, Tao Liu, Clifford~A Meyer, Jérôme Eeckhoute, David~S Johnson,
+  Bradley~E Bernstein, Chad Nusbaum, Richard~M Myers, Myles Brown, Wei Li, and
+  X~Shirley Liu.
+\newblock {Model-based analysis of ChIP-Seq (MACS).}
+\newblock {\em {Genome Biol.}}, 9(9):R137, 2008.
+
+\end{thebibliography}

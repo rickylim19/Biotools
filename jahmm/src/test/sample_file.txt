@@ -1,0 +1,6 @@
+seqname	input	X003	X030
+chr1	NA	NA	NA
+chr1	NA	NA	NA
+chr1	NA	NA	NA
+chr1	0	0	0
+chr1	2	1	0
